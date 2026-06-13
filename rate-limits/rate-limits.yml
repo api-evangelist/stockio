@@ -1,0 +1,21 @@
+rateLimits:
+  - plan: Free
+    description: Stockio does not publicly document specific rate limits for its
+      API. As a free platform offering creative assets, access is provided through
+      standard web and API usage patterns. Users are expected to use the service
+      in good faith and within reasonable request volumes as outlined in the
+      Stockio terms of service.
+    limits:
+      - type: Requests
+        period: day
+        value: null
+        note: Not publicly specified
+      - type: Downloads
+        period: day
+        value: null
+        note: Not publicly specified
+    notes:
+      - Rate limits are not publicly documented by Stockio
+      - Commercial use of assets is permitted within the standard free license
+      - Bulk or automated downloading may be subject to usage policies
+      - Contact Stockio support for enterprise or high-volume access requirements

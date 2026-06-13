@@ -1,0 +1,27 @@
+plans:
+  - name: Free
+    description: Full access to Stockio's library of photos, vectors, icons, fonts,
+      and videos at no cost. All assets are free for personal and commercial use
+      with no attribution required. No registration needed to download photos,
+      icons, or fonts; free account registration required for video downloads.
+    url: https://www.stockio.com
+    price: 0
+    currency: USD
+    unit: month
+    features:
+      - Access to 22,000+ stock photos
+      - Access to 3,500+ free vectors in EPS and JPG formats
+      - Access to 5,000+ icon sets
+      - Access to 11,000+ fonts
+      - Access to 1,000+ stock video clips
+      - Commercial and personal use permitted
+      - No attribution required
+      - No watermarks
+      - Multiple download sizes available
+      - Color-based search functionality
+      - API access for programmatic search and download
+    rateLimit:
+      requests: null
+      period: null
+      note: Rate limits not publicly documented; free tier access implied through
+        standard website and API usage

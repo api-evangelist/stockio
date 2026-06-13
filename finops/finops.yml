@@ -1,0 +1,33 @@
+finops:
+  description: Stockio operates as a fully free platform with no paid subscription
+    tiers or per-asset pricing. All creative assets including photos, vectors,
+    icons, fonts, and videos are available at no cost for both personal and
+    commercial use. There are no API usage fees documented publicly.
+  model: Free
+  pricing:
+    currency: USD
+    tiers:
+      - name: Free
+        price: 0.00
+        unit: month
+        description: Complete access to all Stockio assets and API functionality
+          at no cost
+    perRequest: null
+    perDownload: null
+    perAsset: null
+  costOptimization:
+    - Cache API responses locally to minimize redundant requests
+    - Use specific search queries to reduce result set sizes and download only
+      needed assets
+    - Leverage color search and category filters to find assets efficiently
+      without broad scans
+    - Store downloaded assets to avoid repeated downloads of the same content
+  budgetConsiderations:
+    - No monetary cost associated with Stockio API usage under current model
+    - Bandwidth costs for downloading high-resolution assets may apply on the
+      consumer side
+    - Consider CDN or local storage costs if caching large asset libraries
+  notes:
+    - Stockio does not publicly list paid plans or premium tiers as of June 2026
+    - No public documentation of enterprise or volume licensing programs
+    - Business model appears to be advertising-supported with free asset access
