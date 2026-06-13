@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Stockio",
+  "url": "https://www.stockio.com",
+  "description": "Free stock photos, vectors, and videos platform with a REST API for searching and downloading creative assets for commercial and personal use projects. Stockio offers thousands of high-quality photos, vectors, icons, fonts, and video clips all available at no cost with no attribution required.",
+  "sameAs": [
+    "https://x.com/mystockio",
+    "https://www.linkedin.com/company/stockio"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "name": "Stockio API",
+    "description": "REST API for searching and downloading free stock photos, vectors, icons, videos, and fonts for commercial and personal use projects without attribution requirements.",
+    "url": "https://www.stockio.com/api",
+    "category": "API"
+  }
+}
