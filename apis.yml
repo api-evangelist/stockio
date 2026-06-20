@@ -4,7 +4,7 @@ description: Free stock photos, vectors, and videos platform with a REST API for
   searching and downloading creative assets for commercial and personal use projects.
   Stockio offers thousands of high-quality photos, vectors, icons, fonts, and video
   clips all available at no cost with no attribution required.
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/stockio/refs/heads/main/apis.yml
 created: '2026-06-13'
 modified: '2026-06-13'
@@ -24,7 +24,7 @@ apis:
     description: REST API for searching and downloading free stock photos, vectors,
       icons, videos, and fonts for commercial and personal use projects without attribution
       requirements.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.stockio.com
     baseURL: https://www.stockio.com
     tags:
