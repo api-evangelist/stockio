@@ -3,14 +3,15 @@
   "url": "https://www.stockio.com/blog",
   "blogPosts": [],
   "created": "2026-06-13",
-  "modified": "2026-06-13",
+  "modified": "2026-06-21",
   "repo": "stockio",
   "feeds": [
     {
-      "source": "https://www.linkedin.com/company/stockio",
-      "error": "HTTPError"
+      "source": "https://www.stockio.com/blog",
+      "saved": 0,
+      "error": "HTTP 403 Forbidden"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T13:13:11Z"
 }
