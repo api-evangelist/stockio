@@ -48,6 +48,8 @@ apis:
       - FN: Stockio Support
         url: https://www.stockio.com
 common:
+  - type: DomainSecurity
+    url: security/stockio-domain-security.yml
   - type: Website
     url: https://www.stockio.com
   - type: Documentation
