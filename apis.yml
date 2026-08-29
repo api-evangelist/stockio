@@ -4,6 +4,17 @@ description: Free stock photos, vectors, and videos platform with a REST API for
   searching and downloading creative assets for commercial and personal use projects.
   Stockio offers thousands of high-quality photos, vectors, icons, fonts, and video
   clips all available at no cost with no attribution required.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: free
   onboarding: unknown
