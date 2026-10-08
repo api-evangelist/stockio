@@ -29,3 +29,18 @@ plans:
       period: null
       note: Rate limits not publicly documented; free tier access implied through
         standard website and API usage
+x-canonical:
+  generated: '2026-10-08'
+  vocabulary: all/0-working/economics/plans-canonical.yml
+  models:
+  - free
+  units:
+  - period
+  plans:
+  - name: Free
+    access: other
+    model: free
+    model_how: derived
+    units:
+    - period
+    periods: []
